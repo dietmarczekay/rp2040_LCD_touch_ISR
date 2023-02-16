@@ -5,9 +5,6 @@
 #include <strings.h>
 #include <EEPROM.h>
 
-//#include <Adafruit_GFX.h>
-//#include <Adafruit_ST7796S_kbv.h>
-
 #include <TFT_eSPI.h>
 #include <XPT2046_Touchscreen.h>
 
